@@ -1,4 +1,18 @@
 .gimage {
 	margin: auto;
 	max-width: 25%;
+
+}
+img {
+    display: block;
+    margin: auto;
+}
+#search {
+    margin: auto;
+    max-width: 25%;
+}
+
+input{
+    display: block;
+    margin: auto;
 }
